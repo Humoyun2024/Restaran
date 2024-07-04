@@ -1,0 +1,20 @@
+#navbar a{
+    text-decoration: none;
+}
+
+.row{
+    height: 60px;
+}
+
+header{
+    background-color: rgb(238, 233, 167);
+    font-size: 18px;
+}
+
+.row a:hover{
+    color: rgb(78, 22, 78);
+}
+
+.current{
+    color: rgb(78, 22, 78);
+}
