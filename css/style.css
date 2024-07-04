@@ -18,3 +18,29 @@ header{
 .current{
     color: rgb(78, 22, 78);
 }
+
+.col12{
+    height: 525px;
+}
+
+.clap{
+    margin-bottom: 360px;
+    text-align: center;
+}
+
+.burger{
+    margin-right: 10px;
+}
+
+.burger1{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.burger2{
+    margin-left: 10px;
+}
+
+.rich{
+    text-align: center;
+}
