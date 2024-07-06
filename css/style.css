@@ -17,6 +17,7 @@ header{
 
 .current{
     color: rgb(78, 22, 78);
+    font-weight: bold;
 }
 
 .col12{
