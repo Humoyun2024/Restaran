@@ -11,6 +11,11 @@ header{
     font-size: 18px;
 }
 
+.container1{
+    max-width: 1600px;
+    margin: auto;
+}
+
 .row a:hover{
     color: rgb(78, 22, 78);
 }
