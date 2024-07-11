@@ -50,3 +50,20 @@ header{
 .rich{
     text-align: center;
 }
+
+.container2{
+    max-width: 1584px;
+    margin: auto;
+}
+
+.img{
+    background-image: url(../img/restaurant\ img.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 826px;
+}
+
+.img h1{
+    text-align: center;
+}
