@@ -66,10 +66,16 @@ header{
     background-size: cover;
     background-repeat: no-repeat;
     height: 844px;
+    background-attachment: fixed;
 }
 
-.img h1{
+.h1s{
     padding-top: 300px;
     font-size: 80px;
+    color: rgb(255, 0, 0);
+}
+
+.h2s{
+    padding-top: 150px;
     color: rgb(255, 0, 0);
 }
